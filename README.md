@@ -21,8 +21,11 @@ An interactive, web-based simulation engine built to analyze electrical networks
 * **Web Framework:** Streamlit
 
 * RLC-Scope-Pro/
+
 ├── app.py              # Main Streamlit application entry point
+
 ├── requirements.txt    # Project dependencies
+
 └── README.md           # Project documentation
 
 ---
